@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/topgear/static/css/main.faf622c7.chunk.css",
+    "main.js": "/topgear/static/js/main.e3ad79d5.chunk.js",
+    "main.js.map": "/topgear/static/js/main.e3ad79d5.chunk.js.map",
+    "runtime-main.js": "/topgear/static/js/runtime-main.597f142b.js",
+    "runtime-main.js.map": "/topgear/static/js/runtime-main.597f142b.js.map",
+    "static/js/2.f652fc9f.chunk.js": "/topgear/static/js/2.f652fc9f.chunk.js",
+    "static/js/2.f652fc9f.chunk.js.map": "/topgear/static/js/2.f652fc9f.chunk.js.map",
+    "index.html": "/topgear/index.html",
+    "precache-manifest.4548507eb884fe23635610394df8faff.js": "/topgear/precache-manifest.4548507eb884fe23635610394df8faff.js",
+    "service-worker.js": "/topgear/service-worker.js",
+    "static/css/main.faf622c7.chunk.css.map": "/topgear/static/css/main.faf622c7.chunk.css.map",
+    "static/js/2.f652fc9f.chunk.js.LICENSE": "/topgear/static/js/2.f652fc9f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.597f142b.js",
+    "static/js/2.f652fc9f.chunk.js",
+    "static/css/main.faf622c7.chunk.css",
+    "static/js/main.e3ad79d5.chunk.js"
+  ]
+}
